@@ -1,0 +1,201 @@
+,Rank,HBR_CEO,HBR_Company,HBR_Industry,HBR_Country,HBR_YearStarted,HBR_Insider,HBR_MBA,HBR_finrank,HBR_sustainalytics,HBR_csrhub
+0,1,>Jensen Huang<,">
+NVIDIA<",> Information Technology | <,> United States | <,> 1993 | <,> YES | <,> NO | <,> 4 | <,> 101 | <,> 179<
+1,2,>Marc Benioff<,">
+Salesforce.com<",> Information Technology | <,> United States | <,> 2001 | <,> YES | <,> NO | <,> 6 | <,> 122 | <,> 229<
+2,3,>François-Henri Pinault<,">
+Kering<",> Consumer Goods | <,> France | <,> 2005 | <,> YES | <,> YES | <,> 30 | <,> 137 | <,> 118<
+3,4,>Richard Templeton<,">
+Texas Instruments<",> Information Technology | <,> United States | <,> 2004 | <,> YES | <,> NO | <,> 56 | <,> 59 | <,> 135<
+4,5,>Ignacio Galán<,">
+Iberdrola<",> Utilities | <,> Spain | <,> 2001 | <,> NO | <,> YES | <,> 87 | <,> 26 | <,> 43<
+5,6,>Shantanu Narayen<,">
+Adobe<",> Information Technology | <,> United States | <,> 2007 | <,> YES | <,> YES | <,> 43 | <,> 204 | <,> 82<
+6,7,>Ajay Banga<,">
+Mastercard<",> Information Technology | <,> United States | <,> 2010 | <,> YES | <,> YES | <,> 13 | <,> 166 | <,> 284<
+7,8,>Johan Thijs<,">
+KBC<",> Financial Services | <,> Belgium | <,> 2012 | <,> YES | <,> NO | <,> 78 | <,> 36 | <,> 111<
+8,9,>Satya Nadella<,">
+Microsoft<",> Information Technology | <,> United States | <,> 2014 | <,> YES | <,> YES | <,> 86 | <,> 99 | <,> 13<
+9,10,>Bernard Arnault<,">
+LVMH<",> Consumer Goods | <,> France | <,> 1989 | <,> NO | <,> NO | <,> 7 | <,> 337 | <,> 154<
+10,11,>Erik Engstrom<,">
+RELX<",> Commercial Services | <,> United Kingdom | <,> 2009 | <,> YES | <,> YES | <,> 97 | <,> 75 | <,> 2<
+11,12,>Michael Mussallem<,">
+Edwards Lifesciences<",> Health Care | <,> United States | <,> 2000 | <,> YES | <,> NO | <,> 18 | <,> 195 | <,> 254<
+12,13,>Elmar Degenhart<,">
+Continental<",> Automobile | <,> Germany | <,> 2009 | <,> NO | <,> NO | <,> 67 | <,> 153 | <,> 177<
+13,14,>Anders Runevad<,">
+Vestas<",> Industrials | <,> Denmark | <,> 2013 | <,> NO | <,> YES | <,> 114 | <,> 27 | <,> 85<
+14,15,>Bernard Charlès<,">
+Dassault Systémes<",> Information Technology | <,> France | <,> 1995 | <,> YES | <,> NO | <,> 24 | <,> 373 | <,> 174<
+15,16,>Nancy McKinstry<,">
+Wolters Kluwer<",> Commercial Services | <,> Netherlands | <,> 2003 | <,> YES | <,> YES | <,> 94 | <,> 211 | <,> 83<
+16,17,>Hamid Moghadam<,">
+Prologis<",> Real Estate | <,> United States | <,> 1997 | <,> YES | <,> YES | <,> 52 | <,> 111 | <,> 382<
+17,18,>Benoît Potier<,">
+Air Liquide<",> Materials | <,> France | <,> 1997 | <,> YES | <,> NO | <,> 66 | <,> 61 | <,> 384<
+18,19,>Jean-Paul Agon<,">
+L’Oréal<",> Consumer Goods | <,> France | <,> 2006 | <,> YES | <,> NO | <,> 142 | <,> 129 | <,> 1<
+19,20,>Mark Parker<,">
+Nike<",> Consumer Goods | <,> United States | <,> 2006 | <,> YES | <,> NO | <,> 22 | <,> 522 | <,> 183<
+20,21,>Jacques Aschenbroich<,">
+Valeo<",> Automobile | <,> France | <,> 2009 | <,> NO | <,> NO | <,> 159 | <,> 92 | <,> 15<
+21,22,>Simon Borrows<,">
+3i<",> Financial Services | <,> United Kingdom | <,> 2012 | <,> YES | <,> YES | <,> 145 | <,> 39 | <,> 140<
+22,23,>Jamie Dimon<,">
+JPMorgan Chase<",> Financial Services | <,> United States | <,> 2005 | <,> YES | <,> YES | <,> 84 | <,> 188 | <,> 311<
+23,24,>Laurence Fink<,">
+BlackRock<",> Financial Services | <,> United States | <,> 1988 | <,> YES | <,> YES | <,> 5 | <,> 308 | <,> 571<
+24,25,>Gregory Goodman<,">
+Goodman<",> Real Estate | <,> Australia | <,> 1995 | <,> YES | <,> NO | <,> 42 | <,> 228 | <,> 479<
+25,26,>Lisa Su<,">
+Advanced Micro Devices<",> Information Technology | <,> United States | <,> 2014 | <,> YES | <,> NO | <,> 72 | <,> 141 | <,> 428<
+26,27,>Xavier Huillard<,">
+Vinci<",> Industrials | <,> France | <,> 2006 | <,> YES | <,> NO | <,> 83 | <,> 396 | <,> 128<
+27,28,>Alfred Chan<,">
+Hong Kong and China Gas<",> Utilities | <,> <,>China<,> 1997 | <,> YES | <,> NO | <,> 47 | <,> 432 | <
+28,29,>Debra Cafaro<,">
+Ventas<",> Real Estate | <,> United States | <,> 1999 | <,> NO | <,> NO | <,> 32 | <,> 415 | <,> 364<
+29,30,>Gilles Andrier<,">
+Givaudan<",> Materials | <,> Switzerland | <,> 2005 | <,> YES | <,> NO | <,> 133 | <,> 254 | <,> 55<
+30,31,>Martin Bouygues<,">
+Bouygues<",> Industrials | <,> France | <,> 1989 | <,> YES | <,> NO | <,> 74 | <,> 479 | <,> 108<
+31,32,>Chuck Robbins<,">
+Cisco Systems<",> Information Technology | <,> United States | <,> 2015 | <,> YES | <,> NO | <,> 186 | <,> 38 | <,> 30<
+32,33,>Hisashi Ietsugu<,">
+Sysmex<",> Health Care | <,> Japan | <,> 1996 | <,> YES | <,> NO | <,> 85 | <,> 529 | <,> 29<
+33,34,>Richard Fairbank<,">
+Capital One<",> Financial Services | <,> United States | <,> 1994 | <,> YES | <,> YES | <,> 23 | <,> 560 | <,> 293<
+34,35,>Heinz-Jürgen Bertram<,">
+Symrise<",> Materials | <,> Germany | <,> 2009 | <,> YES | <,> NO | <,> 138 | <,> 251 | <,> 64<
+35,36,>Michitaka Sawada<,">
+Kao<",> Consumer Goods | <,> Japan | <,> 2012 | <,> YES | <,> NO | <,> 177 | <,> 77 | <,> 60<
+36,37,>Marillyn Hewson<,">
+Lockheed Martin<",> Industrials | <,> United States | <,> 2013 | <,> YES | <,> NO | <,> 97 | <,> 301 | <,> 219<
+37,38,>Douglas Baker Jr.<,">
+Ecolab<",> Materials | <,> United States | <,> 2004 | <,> YES | <,> NO | <,> 63 | <,> 492 | <,> 188<
+38,39,>Fabrizio Freda<,">
+Estée Lauder<",> Consumer Goods | <,> United States | <,> 2009 | <,> YES | <,> NO | <,> 26 | <,> 585 | <,> 271<
+39,40,>Reinhard Ploss<,">
+Infineon Technologies<",> Information Technology | <,> Germany | <,> 2012 | <,> YES | <,> NO | <,> 175 | <,> 65 | <,> 94<
+40,41,>Carlos Rodriguez<,">
+ADP<",> Information Technology | <,> United States | <,> 2011 | <,> YES | <,> YES | <,> 115 | <,> 175 | <,> 268<
+41,42,>Feike Sijbesma<,">
+DSM<",> Materials | <,> Netherlands | <,> 2007 | <,> YES | <,> YES | <,> 194 | <,> 19 | <,> 61<
+42,43,>Shigenobu Nagamori<,">
+Nidec<",> Industrials | <,> Japan | <,> 1973 | <,> YES | <,> NO | <,> 16 | <,> 501 | <,> 426<
+43,44,>Luis Maroto<,">
+Amadeus IT<",> Information Technology | <,> Spain | <,> 2011 | <,> YES | <,> YES | <,> 132 | <,> 173 | <,> 220<
+44,45,>Douglas Peterson<,">
+S&amp;P Global<",> Financial Services | <,> United States | <,> 2013 | <,> YES | <,> YES | <,> 134 | <,> 237 | <,> 161<
+45,46,>Íñigo Meirás<,">
+Ferrovial<",> Industrials | <,> Spain | <,> 2009 | <,> YES | <,> YES | <,> 162 | <,> 245 | <,> 45<
+46,47,>Michael Mahoney<,">
+Boston Scientific<",> Health Care | <,> United States | <,> 2012 | <,> YES | <,> YES | <,> 48 | <,> 591 | <,> 252<
+47,48,>Jean-Pascal Tricoire<,">
+Schneider Electric<",> Industrials | <,> France | <,> 2006 | <,> YES | <,> YES | <,> 211 | <,> 60 | <,> 28<
+48,49,>Glenn Chamandy<,">
+Gildan Activewear<",> Consumer Goods | <,> Canada | <,> 2004 | <,> YES | <,> NO | <,> 174 | <,> 182 | <,> 84<
+49,50,>George Kwok Lung Hongchoy<,">
+Link REIT<",> Real Estate | <,>China<,> 2010 | <,> YES | <,> YES | <,> 80 | <,> 439 | <,> 275<
+50,51,>Olivier Filliol<,">
+Mettler Toledo<",> Health Care | <,> Switzerland | <,> 2008 | <,> YES | <,> YES | <,> 130 | <,> 149 | <,> 350<
+51,52,>Masahiko Uotani<,">
+Shiseido<",> Consumer Goods | <,> Japan | <,> 2014 | <,> NO | <,> YES | <,> 104 | <,> 330 | <,> 303<
+52,53,>Frederick Smith<,">
+FedEx<",> Transportation | <,> United States | <,> 1971 | <,> YES | <,> NO | <,> 58 | <,> 319 | <,> 549<
+53,54,>Tadashi Yanai<,">
+Fast Retailing<",> Retail | <,> Japan | <,> 1984 | <,> YES | <,> NO | <,> 7 | <,> 486 | <,> 625<
+54,55,>Robert Iger<,">
+Disney<",> Communication | <,> United States | <,> 2005 | <,> YES | <,> NO | <,> 36 | <,> 570 | <,> 429<
+55,56,>Michael Zahn<,">
+Deutsche Wohnen<",> Real Estate | <,> Germany | <,> 2008 | <,> YES | <,> NO | <,> 75 | <,> 366 | <,> 457<
+56,57,>Michael Lamach<,">
+Ingersoll-Rand<",> Industrials | <,> United States | <,> 2010 | <,> YES | <,> YES | <,> 134 | <,> 343 | <,> 207<
+57,58,>Rune Bjerke<,">
+DNB<",> Financial Services | <,> Norway | <,> 2007 | <,> NO | <,> NO | <,> 205 | <,> 52 | <,> 171<
+58,59,>Mike Lawrie<,">
+DXC Technology<",> Information Technology | <,> United States | <,> 2012 | <,> YES | <,> YES | <,> 123 | <,> 130 | <,> 484<
+59,60,>Peter Wennink<,">
+ASML<",> Information Technology | <,> Netherlands | <,> 2013 | <,> YES | <,> NO | <,> 248 | <,> 24 | <,> 34<
+60,61,>Jean-François van Boxmeer<,">
+Heineken<",> Consumer Goods | <,> Netherlands | <,> 2005 | <,> YES | <,> NO | <,> 201 | <,> 110 | <,> 185<
+61,62,>Tim Cook<,">
+Apple<",> Information Technology | <,> United States | <,> 2011 | <,> YES | <,> YES | <,> 124 | <,> 406 | <,> 265<
+62,63,>Ma Huateng<,">
+Tencent<",> Communication | <,> China | <,> 1998 | <,> YES | <,> NO | <,> 2 | <,> 600 | <,> 644<
+63,64,>Carlos Tavares<,">
+Peugeot<",> Automobile | <,> France | <,> 2014 | <,> NO | <,> NO | <,> 250 | <,> 82 | <,> 14<
+64,65,>Paolo Rocca<,">
+Tenaris<",> Energy | <,> Argentina | <,> 2002 | <,> YES | <,> NO | <,> 65 | <,> 329 | <,> 647<
+65,66,>Florentino Pérez Rodríguez<,">
+ACS<",> Industrials | <,> Spain | <,> 1993 | <,> YES | <,> NO | <,> 53 | <,> 626 | <,> 415<
+66,67,>David Simon<,">
+Simon Property<",> Real Estate | <,> United States | <,> 1995 | <,> YES | <,> YES | <,> 15 | <,> 606 | <,> 620<
+67,68,>Dean Connor<,">
+Sun Life Financial<",> Financial Services | <,> Canada | <,> 2011 | <,> YES | <,> NO | <,> 195 | <,> 188 | <,> 197<
+68,69,>Oliver Bäte<,">
+Allianz<",> Financial Services | <,> Germany | <,> 2015 | <,> YES | <,> YES | <,> 249 | <,> 72 | <,> 68<
+69,70,>Jeffrey Sprecher<,">
+Intercontinental Exchange<",> Financial Services | <,> United States | <,> 2000 | <,> YES | <,> YES | <,> 27 | <,> 619 | <,> 568<
+70,71,>George Cope<,">
+BCE<",> Communication | <,> Canada | <,> 2008 | <,> YES | <,> NO | <,> 219 | <,> 156 | <,> 136<
+71,72,>Takahisa Takahara<,">
+Unicharm<",> Consumer Goods | <,> Japan | <,> 2004 | <,> YES | <,> NO | <,> 113 | <,> 460 | <,> 330<
+72,73,>Greg Case<,">
+Aon<",> Financial Services | <,> United Kingdom | <,> 2005 | <,> NO | <,> YES | <,> 31 | <,> 554 | <,> 621<
+73,74,>Yves Guillemot<,">
+Ubisoft<",> Communication | <,> France | <,> 1988 | <,> YES | <,> NO | <,> 89 | <,> 512 | <,> 402<
+74,75,>Marc Casper<,">
+Thermo Fisher Scientific<",> Health Care | <,> United States | <,> 2009 | <,> YES | <,> YES | <,> 63 | <,> 707 | <,> 332<
+75,76,>Jean-Sébastien Jacques<,">
+Rio Tinto<",> Materials | <,> United Kingdom | <,> 2016 | <,> YES | <,> NO | <,> 168 | <,> 108 | <,> 467<
+76,77,>Pascal Soriot<,">
+AstraZeneca<",> Health Care | <,> United Kingdom | <,> 2012 | <,> NO | <,> YES | <,> 202 | <,> 160 | <,> 257<
+77,78,>Simon Wolfson<,">
+Next<",> Retail | <,> United Kingdom | <,> 2001 | <,> YES | <,> NO | <,> 91 | <,> 607 | <,> 333<
+78,79,>Raymond McDaniel Jr.<,">
+Moodyʼs<",> Financial Services | <,> United States | <,> 2005 | <,> YES | <,> NO | <,> 90 | <,> 412 | <,> 533<
+79,80,>Daniel Amos<,">
+Aflac<",> Financial Services | <,> United States | <,> 1990 | <,> YES | <,> NO | <,> 17 | <,> 671 | <,> 618<
+80,81,>Bobby Kotick<,">
+Activision Blizzard<",> Communication | <,> United States | <,> 1991 | <,> YES | <,> NO | <,> 11 | <,> 461 | <,> 858<
+81,82,>James Robo<,">
+NextEra Energy<",> Utilities | <,> United States | <,> 2012 | <,> YES | <,> YES | <,> 126 | <,> 294 | <,> 493<
+82,83,>Paul Perreault<,">
+CSL<",> Health Care | <,> Australia | <,> 2013 | <,> YES | <,> NO | <,> 142 | <,> 595 | <,> 122<
+83,84,>Ivan Menezes<,">
+Diageo<",> Consumer Goods | <,> United Kingdom | <,> 2013 | <,> YES | <,> YES | <,> 283 | <,> 58 | <,> 5<
+84,85,>André Desmarais<,">
+Power Corporation of Canada<",> Financial Services | <,> Canada | <,> 1996 | <,> YES | <,> NO | <,> 116 | <,> 276 | <,> 574<
+85,86,>Paul Desmarais Jr.<,">
+Power Corporation of Canada<",> Financial Services | <,> Canada | <,> 1996 | <,> YES | <,> YES | <,> 116 | <,> 276 | <,> 574<
+86,87,>Alfred Kelly Jr.<,">
+Visa<",> Information Technology | <,> United States | <,> 2016 | <,> NO | <,> YES | <,> 186 | <,> 291 | <,> 246<
+87,88,>Sheng Yue Gui<,">
+Geely Automobile<",> Automobile | <,> China<,> 2006 | <,> YES | <,> YES | <,> 56 | <,> 686 | <,> 464<
+88,89,>Piyush Gupta<,">
+DBS Bank<",> Financial Services | <,> Singapore | <,> 2009 | <,> NO | <,> YES | <,> 152 | <,> 290 | <,> 414<
+89,90,>Colin Goldschmidt<,">
+Sonic Healthcare<",> Health Care | <,> Australia | <,> 1993 | <,> YES | <,> NO | <,> 100 | <,> 521 | <,> 427<
+90,91,>Marc Grynberg<,">
+Umicore<",> Materials | <,> Belgium | <,> 2008 | <,> YES | <,> NO | <,> 215 | <,> 265 | <,> 151<
+91,92,>Jussi Pesonen<,">
+UPM<",> Materials | <,> Finland | <,> 2004 | <,> YES | <,> NO | <,> 253 | <,> 107 | <,> 133<
+92,93,>Leonard Schleifer<,">
+Regeneron Pharmaceuticals<",> Health Care | <,> United States | <,> 1988 | <,> YES | <,> NO | <,> 19 | <,> 682 | <,> 654<
+93,94,>Jens Bjørn Andersen<,">
+DSV<",> Transportation | <,> Denmark | <,> 2008 | <,> YES | <,> NO | <,> 173 | <,> 230 | <,> 389<
+94,95,>Björn Rosengren<,">
+Sandvik<",> Industrials | <,> Sweden | <,> 2015 | <,> NO | <,> NO | <,> 270 | <,> 143 | <,> 38<
+95,96,>Masayoshi Son<,">
+SoftBank<",> Communication | <,> Japan | <,> 1981 | <,> YES | <,> NO | <,> 10 | <,> 703 | <,> 699<
+96,97,>Daniel Hajj Aboumrad<,">
+América Móvil<",> Communication | <,> Mexico | <,> 2000 | <,> YES | <,> NO | <,> 49 | <,> 508 | <,> 732<
+97,98,>Gary Dickerson<,">
+Applied Materials<",> Information Technology | <,> United States | <,> 2013 | <,> YES | <,> YES | <,> 207 | <,> 347 | <,> 167<
+98,99,>Brian Roberts<,">
+Comcast<",> Communication | <,> United States | <,> 2002 | <,> YES | <,> NO | <,> 68 | <,> 604 | <,> 570<
+99,100,>Bruce Flatt<,">
+Brookfield Asset Management<",> Financial Services | <,> Canada | <,> 2002 | <,> YES | <,> NO | <,> 25 | <,> 855 | <,> 525<
