@@ -1,0 +1,194 @@
+,GD_CEO,GD_Approval,Company,GD CEO Rank,HBR CEO Rank,HBR_CEO,HBR_Industry,HBR_Country,HBR_YearStarted,HBR_Insider,HBR_MBA,HBR_finrank,HBR_sustainalytics,HBR_csrhub
+0,Pat Gelsinger,0.99,vmware,1.0,,,,,,,,,,
+1,Charles C. Butt,0.99,heb,2.0,,,,,,,,,,
+2,Lynsi Snyder,0.99,in-n-outburger,3.0,,,,,,,,,,
+3,John Legere,0.99,t-mobile,4.0,,,,,,,,,,
+4,Shantanu Narayen,0.98,adobe,5.0,6.0,Shantanu Narayen,Information Technology,United States,2007.0,1.0,1.0,43.0,204.0,82.0
+5,Satya Nadella,0.98,microsoft,6.0,9.0,Satya Nadella,Information Technology,United States,2014.0,1.0,1.0,86.0,99.0,13.0
+6,Kevin Sneader,0.98,mckinsey&company,7.0,,,,,,,,,,
+7,Jeff Weiner,0.97,linkedin,8.0,,,,,,,,,,
+8,Gary S. Guthart ,0.97,intuitivesurgical,9.0,,,,,,,,,,
+9,Hubert Joly,0.97,bestbuy,10.0,,,,,,,,,,
+10,Esfand Dinshaw,0.97,sammonsfinancialgroup,11.0,,,,,,,,,,
+11,Manny Maceda,0.97,bain&company,12.0,,,,,,,,,,
+12,Kevin A. Lobo,0.97,stryker,13.0,,,,,,,,,,
+13,Matt Scantland,0.97,covermymeds,14.0,,,,,,,,,,
+14,Cathy Engelbert,0.97,deloitte,15.0,,,,,,,,,,
+15,Brian Halligan,0.96,hubspot,16.0,,,,,,,,,,
+16,Marc Benioff and Keith Block,0.96,salesforce,17.0,,,,,,,,,,
+17,Jen-Hsun Huang,0.96,nvidia,18.0,1.0,Jensen Huang,Information Technology,United States,1993.0,1.0,0.0,4.0,101.0,179.0
+18,Randy Richardson ,0.96,vi,19.0,,,,,,,,,,
+19,Erhardt Preitauer,0.96,caresource,20.0,,,,,,,,,,
+20,John F. Bergstrom,0.96,bergstromautomotive,21.0,,,,,,,,,,
+21,Aneel Bhusri,0.96,workday,22.0,,,,,,,,,,
+22,Scott Davis,0.96,flikhospitalitygroup,23.0,,,,,,,,,,
+23,Brad Jackson,0.96,slalom,24.0,,,,,,,,,,
+24,Corey Schiller &amp; Asher Raphael,0.96,powerhomeremodeling,25.0,,,,,,,,,,
+25,Chad England,0.95,crengland,26.0,,,,,,,,,,
+26,Daniel Springer,0.95,docusign,27.0,,,,,,,,,,
+27,Todd Graves,0.95,raisingcane's,28.0,,,,,,,,,,
+28,Steven C. Bilt,0.95,smilebrands,29.0,,,,,,,,,,
+29,Aron J. Ain,0.95,kronosincorporated,30.0,,,,,,,,,,
+30,Bill McDermott ,0.95,sap,31.0,,,,,,,,,,
+31,Tom Linebarger,0.95,cummins,32.0,,,,,,,,,,
+32,Anant Yardi,0.95,yardisystems,33.0,,,,,,,,,,
+33,Dan Schulman,0.95,paypal,34.0,,,,,,,,,,
+34,Gary C. Kelly,0.95,southwestairlines,35.0,,,,,,,,,,
+35,Jamie Dimon,0.95,jpmorgan,36.0,,,,,,,,,,
+36,Jonas Prising,0.95,manpower,37.0,,,,,,,,,,
+37,Scott Scherr,0.95,ultimatesoftware,38.0,,,,,,,,,,
+38,Robert E. Sulentic,0.95,cbre,39.0,,,,,,,,,,
+39,Chuck Robbins,0.95,ciscosystems,40.0,32.0,Chuck Robbins,Information Technology,United States,2015.0,1.0,0.0,186.0,38.0,30.0
+40,David Wadhwani,0.95,appdynamics,41.0,,,,,,,,,,
+41,Craig Jelinek,0.95,costcowholesale,42.0,,,,,,,,,,
+42,Tim Yaggi,0.95,pella,43.0,,,,,,,,,,
+43,Michael J. Dowling,0.95,northwellhealth,44.0,,,,,,,,,,
+44,Mike Roman,0.95,3m,45.0,,,,,,,,,,
+45,Sundar Pichai,0.94,google,46.0,,,,,,,,,,
+46, Peter Pisters,0.94,mdandersoncancercenter,47.0,,,,,,,,,,
+47,Mark Weinberger,0.94,ey,48.0,,,,,,,,,,
+48,Bob Quattrocchi,0.94,northsidehospital,49.0,,,,,,,,,,
+49,Akio Toyoda,0.94,toyotanorthamerica,50.0,,,,,,,,,,
+50,Joe Gallo,0.94,e&jgallowinery,51.0,,,,,,,,,,
+51,Colleen Wegman,0.94,wegmansfoodmarkets,52.0,,,,,,,,,,
+52,Pamela M. Nicholson,0.94,enterprise,53.0,,,,,,,,,,
+53,Jean-Pascal Tricoire,0.94,schneiderelectric,54.0,48.0,Jean-Pascal Tricoire,Industrials,France,2006.0,1.0,1.0,211.0,60.0,28.0
+54,Mark Zuckerberg,0.94,facebook,55.0,,,,,,,,,,
+55,Sajan Pillai,0.94,ustglobal,56.0,,,,,,,,,,
+56,Joe Margolis,0.94,extraspacestorage,57.0,,,,,,,,,,
+57,Peter Strebel,0.94,omnihotels,58.0,,,,,,,,,,
+58,Mark S. Hoplamazian,0.93,hyatt,59.0,,,,,,,,,,
+59,Randy Bufford,0.93,trilogyhealthservices,60.0,,,,,,,,,,
+60,Tricia Griffith,0.93,progressiveinsurance,61.0,,,,,,,,,,
+61,Stephen B. Burke,0.93,nbcuniversal,62.0,,,,,,,,,,
+62, Robert Reffkin ,0.93,compass,63.0,,,,,,,,,,
+63,Thomas Buberl,0.93,axaadvisors,64.0,,,,,,,,,,
+64,Francis deSouza ,0.93,illumina,65.0,,,,,,,,,,
+65,Chad Richison,0.93,paycom,66.0,,,,,,,,,,
+66,James P. Gorman,0.92,morganstanley,67.0,,,,,,,,,,
+67,Alex Gorsky,0.92,johnson&johnson,68.0,,,,,,,,,,
+68,Tim Cook,0.92,apple,69.0,62.0,Tim Cook,Information Technology,United States,2011.0,1.0,1.0,124.0,406.0,265.0
+69,Dan T. Cathy,0.92,chick-fil-a,70.0,,,,,,,,,,
+70,Michael R. Bloomberg,0.92,bloomberglp,71.0,,,,,,,,,,
+71,Lynne Doughtie,0.92,kpmg,72.0,,,,,,,,,,
+72,Steve Hockett,0.92,greatclips,73.0,,,,,,,,,,
+73,Robert I. Grossman,0.92,nyulangonehealth,74.0,,,,,,,,,,
+74,Bob Faith,0.92,greystar,75.0,,,,,,,,,,
+75,Tim Pierce,0.92,morrisonhealthcare,76.0,,,,,,,,,,
+76,Steve Beauchamp,0.92,paylocity,77.0,,,,,,,,,,
+77,Bobby Kutteh,0.92,crothallhealthcare,78.0,,,,,,,,,,
+78,Christopher Nassetta,0.92,hilton,79.0,,,,,,,,,,
+79,Alan D. Schnitzer,0.92,travelers,80.0,,,,,,,,,,
+80,Michael Zuieback,0.92,discounttire,81.0,,,,,,,,,,
+81,David Overton,0.91,thecheesecakefactory,82.0,,,,,,,,,,
+82,Walt Bettinger II,0.91,charlesschwab,83.0,,,,,,,,,,
+83,Michael Hansen,0.91,cengage,84.0,,,,,,,,,,
+84,Martin Mucci,0.91,paychex,85.0,,,,,,,,,,
+85,Jim Kavanaugh,0.91,worldwidetechnology,86.0,,,,,,,,,,
+86,Kenneth C. Frazier,0.91,merck,87.0,,,,,,,,,,
+87,John P. Wiehoff,0.91,chrobinson,88.0,,,,,,,,,,
+88,John E. Schlifske,0.91,northwesternmutual,89.0,,,,,,,,,,
+89,"Alfred F. Kelly, Jr.",0.91,visainc,90.0,,,,,,,,,,
+90,"Steven J. Corwin, MD",0.91,newyork-presbyterianhospital,91.0,,,,,,,,,,
+91,Ken Burdick,0.91,wellcare,92.0,,,,,,,,,,
+92,Dan Bane,0.91,traderjoe's,93.0,,,,,,,,,,
+93,Mark G. Parker,0.91,nike,94.0,20.0,Mark Parker,Consumer Goods,United States,2006.0,1.0,0.0,22.0,522.0,183.0
+94,Pat Bauer,0.9,heartlanddental,95.0,,,,,,,,,,
+95,David Cordani,0.9,cigna,96.0,,,,,,,,,,
+96,Steve Barick,0.9,highgatehotels,97.0,,,,,,,,,,
+97,Stephen J Squeri,0.9,americanexpress,98.0,,,,,,,,,,
+98,David Baiada,0.9,bayadahomehealthcare,99.0,,,,,,,,,,
+99,Cindy Mi,0.9,vipkid,100.0,,,,,,,,,,
+100,,,salesforcecom,,2.0,Marc Benioff,Information Technology,United States,2001.0,1.0,0.0,6.0,122.0,229.0
+101,,,kering,,3.0,François-Henri Pinault,Consumer Goods,France,2005.0,1.0,1.0,30.0,137.0,118.0
+102,,,texasinstruments,,4.0,Richard Templeton,Information Technology,United States,2004.0,1.0,0.0,56.0,59.0,135.0
+103,,,iberdrola,,5.0,Ignacio Galán,Utilities,Spain,2001.0,0.0,1.0,87.0,26.0,43.0
+104,,,mastercard,,7.0,Ajay Banga,Information Technology,United States,2010.0,1.0,1.0,13.0,166.0,284.0
+105,,,kbc,,8.0,Johan Thijs,Financial Services,Belgium,2012.0,1.0,0.0,78.0,36.0,111.0
+106,,,lvmh,,10.0,Bernard Arnault,Consumer Goods,France,1989.0,0.0,0.0,7.0,337.0,154.0
+107,,,relx,,11.0,Erik Engstrom,Commercial Services,United Kingdom,2009.0,1.0,1.0,97.0,75.0,2.0
+108,,,edwardslifesciences,,12.0,Michael Mussallem,Health Care,United States,2000.0,1.0,0.0,18.0,195.0,254.0
+109,,,continental,,13.0,Elmar Degenhart,Automobile,Germany,2009.0,0.0,0.0,67.0,153.0,177.0
+110,,,vestas,,14.0,Anders Runevad,Industrials,Denmark,2013.0,0.0,1.0,114.0,27.0,85.0
+111,,,dassaultsystémes,,15.0,Bernard Charlès,Information Technology,France,1995.0,1.0,0.0,24.0,373.0,174.0
+112,,,wolterskluwer,,16.0,Nancy McKinstry,Commercial Services,Netherlands,2003.0,1.0,1.0,94.0,211.0,83.0
+113,,,prologis,,17.0,Hamid Moghadam,Real Estate,United States,1997.0,1.0,1.0,52.0,111.0,382.0
+114,,,airliquide,,18.0,Benoît Potier,Materials,France,1997.0,1.0,0.0,66.0,61.0,384.0
+115,,,l’oréal,,19.0,Jean-Paul Agon,Consumer Goods,France,2006.0,1.0,0.0,142.0,129.0,1.0
+116,,,valeo,,21.0,Jacques Aschenbroich,Automobile,France,2009.0,0.0,0.0,159.0,92.0,15.0
+117,,,3i,,22.0,Simon Borrows,Financial Services,United Kingdom,2012.0,1.0,1.0,145.0,39.0,140.0
+118,,,jpmorganchase,,23.0,Jamie Dimon,Financial Services,United States,2005.0,1.0,1.0,84.0,188.0,311.0
+119,,,blackrock,,24.0,Laurence Fink,Financial Services,United States,1988.0,1.0,1.0,5.0,308.0,571.0
+120,,,goodman,,25.0,Gregory Goodman,Real Estate,Australia,1995.0,1.0,0.0,42.0,228.0,479.0
+121,,,advancedmicrodevices,,26.0,Lisa Su,Information Technology,United States,2014.0,1.0,0.0,72.0,141.0,428.0
+122,,,vinci,,27.0,Xavier Huillard,Industrials,France,2006.0,1.0,0.0,83.0,396.0,128.0
+123,,,hongkongandchinagas,,28.0,Alfred Chan,Utilities,h,1997.0,1.0,0.0,47.0,432.0,286.68
+124,,,ventas,,29.0,Debra Cafaro,Real Estate,United States,1999.0,0.0,0.0,32.0,415.0,364.0
+125,,,givaudan,,30.0,Gilles Andrier,Materials,Switzerland,2005.0,1.0,0.0,133.0,254.0,55.0
+126,,,bouygues,,31.0,Martin Bouygues,Industrials,France,1989.0,1.0,0.0,74.0,479.0,108.0
+127,,,sysmex,,33.0,Hisashi Ietsugu,Health Care,Japan,1996.0,1.0,0.0,85.0,529.0,29.0
+128,,,capitalone,,34.0,Richard Fairbank,Financial Services,United States,1994.0,1.0,1.0,23.0,560.0,293.0
+129,,,symrise,,35.0,Heinz-Jürgen Bertram,Materials,Germany,2009.0,1.0,0.0,138.0,251.0,64.0
+130,,,kao,,36.0,Michitaka Sawada,Consumer Goods,Japan,2012.0,1.0,0.0,177.0,77.0,60.0
+131,,,lockheedmartin,,37.0,Marillyn Hewson,Industrials,United States,2013.0,1.0,0.0,97.0,301.0,219.0
+132,,,ecolab,,38.0,Douglas Baker Jr.,Materials,United States,2004.0,1.0,0.0,63.0,492.0,188.0
+133,,,estéelauder,,39.0,Fabrizio Freda,Consumer Goods,United States,2009.0,1.0,0.0,26.0,585.0,271.0
+134,,,infineontechnologies,,40.0,Reinhard Ploss,Information Technology,Germany,2012.0,1.0,0.0,175.0,65.0,94.0
+135,,,adp,,41.0,Carlos Rodriguez,Information Technology,United States,2011.0,1.0,1.0,115.0,175.0,268.0
+136,,,dsm,,42.0,Feike Sijbesma,Materials,Netherlands,2007.0,1.0,1.0,194.0,19.0,61.0
+137,,,nidec,,43.0,Shigenobu Nagamori,Industrials,Japan,1973.0,1.0,0.0,16.0,501.0,426.0
+138,,,amadeusit,,44.0,Luis Maroto,Information Technology,Spain,2011.0,1.0,1.0,132.0,173.0,220.0
+139,,,s&pglobal,,45.0,Douglas Peterson,Financial Services,United States,2013.0,1.0,1.0,134.0,237.0,161.0
+140,,,ferrovial,,46.0,Íñigo Meirás,Industrials,Spain,2009.0,1.0,1.0,162.0,245.0,45.0
+141,,,bostonscientific,,47.0,Michael Mahoney,Health Care,United States,2012.0,1.0,1.0,48.0,591.0,252.0
+142,,,gildanactivewear,,49.0,Glenn Chamandy,Consumer Goods,Canada,2004.0,1.0,0.0,174.0,182.0,84.0
+143,,,linkreit,,50.0,George Kwok Lung Hongchoy,Real Estate,h,2010.0,1.0,1.0,80.0,439.0,275.0
+144,,,mettlertoledo,,51.0,Olivier Filliol,Health Care,Switzerland,2008.0,1.0,1.0,130.0,149.0,350.0
+145,,,shiseido,,52.0,Masahiko Uotani,Consumer Goods,Japan,2014.0,0.0,1.0,104.0,330.0,303.0
+146,,,fedex,,53.0,Frederick Smith,Transportation,United States,1971.0,1.0,0.0,58.0,319.0,549.0
+147,,,fastretailing,,54.0,Tadashi Yanai,Retail,Japan,1984.0,1.0,0.0,7.0,486.0,625.0
+148,,,disney,,55.0,Robert Iger,Communication,United States,2005.0,1.0,0.0,36.0,570.0,429.0
+149,,,deutschewohnen,,56.0,Michael Zahn,Real Estate,Germany,2008.0,1.0,0.0,75.0,366.0,457.0
+150,,,ingersoll-rand,,57.0,Michael Lamach,Industrials,United States,2010.0,1.0,1.0,134.0,343.0,207.0
+151,,,dnb,,58.0,Rune Bjerke,Financial Services,Norway,2007.0,0.0,0.0,205.0,52.0,171.0
+152,,,dxctechnology,,59.0,Mike Lawrie,Information Technology,United States,2012.0,1.0,1.0,123.0,130.0,484.0
+153,,,asml,,60.0,Peter Wennink,Information Technology,Netherlands,2013.0,1.0,0.0,248.0,24.0,34.0
+154,,,heineken,,61.0,Jean-François van Boxmeer,Consumer Goods,Netherlands,2005.0,1.0,0.0,201.0,110.0,185.0
+155,,,tencent,,63.0,Ma Huateng,Communication,China,1998.0,1.0,0.0,2.0,600.0,644.0
+156,,,peugeot,,64.0,Carlos Tavares,Automobile,France,2014.0,0.0,0.0,250.0,82.0,14.0
+157,,,tenaris,,65.0,Paolo Rocca,Energy,Argentina,2002.0,1.0,0.0,65.0,329.0,647.0
+158,,,acs,,66.0,Florentino Pérez Rodríguez,Industrials,Spain,1993.0,1.0,0.0,53.0,626.0,415.0
+159,,,simonproperty,,67.0,David Simon,Real Estate,United States,1995.0,1.0,1.0,15.0,606.0,620.0
+160,,,sunlifefinancial,,68.0,Dean Connor,Financial Services,Canada,2011.0,1.0,0.0,195.0,188.0,197.0
+161,,,allianz,,69.0,Oliver Bäte,Financial Services,Germany,2015.0,1.0,1.0,249.0,72.0,68.0
+162,,,intercontinentalexchange,,70.0,Jeffrey Sprecher,Financial Services,United States,2000.0,1.0,1.0,27.0,619.0,568.0
+163,,,bce,,71.0,George Cope,Communication,Canada,2008.0,1.0,0.0,219.0,156.0,136.0
+164,,,unicharm,,72.0,Takahisa Takahara,Consumer Goods,Japan,2004.0,1.0,0.0,113.0,460.0,330.0
+165,,,aon,,73.0,Greg Case,Financial Services,United Kingdom,2005.0,0.0,1.0,31.0,554.0,621.0
+166,,,ubisoft,,74.0,Yves Guillemot,Communication,France,1988.0,1.0,0.0,89.0,512.0,402.0
+167,,,thermofisherscientific,,75.0,Marc Casper,Health Care,United States,2009.0,1.0,1.0,63.0,707.0,332.0
+168,,,riotinto,,76.0,Jean-Sébastien Jacques,Materials,United Kingdom,2016.0,1.0,0.0,168.0,108.0,467.0
+169,,,astrazeneca,,77.0,Pascal Soriot,Health Care,United Kingdom,2012.0,0.0,1.0,202.0,160.0,257.0
+170,,,next,,78.0,Simon Wolfson,Retail,United Kingdom,2001.0,1.0,0.0,91.0,607.0,333.0
+171,,,moodyʼs,,79.0,Raymond McDaniel Jr.,Financial Services,United States,2005.0,1.0,0.0,90.0,412.0,533.0
+172,,,aflac,,80.0,Daniel Amos,Financial Services,United States,1990.0,1.0,0.0,17.0,671.0,618.0
+173,,,activisionblizzard,,81.0,Bobby Kotick,Communication,United States,1991.0,1.0,0.0,11.0,461.0,858.0
+174,,,nexteraenergy,,82.0,James Robo,Utilities,United States,2012.0,1.0,1.0,126.0,294.0,493.0
+175,,,csl,,83.0,Paul Perreault,Health Care,Australia,2013.0,1.0,0.0,142.0,595.0,122.0
+176,,,diageo,,84.0,Ivan Menezes,Consumer Goods,United Kingdom,2013.0,1.0,1.0,283.0,58.0,5.0
+177,,,powercorporationofcanada,,85.0,André Desmarais,Financial Services,Canada,1996.0,1.0,0.0,116.0,276.0,574.0
+178,,,powercorporationofcanada,,86.0,Paul Desmarais Jr.,Financial Services,Canada,1996.0,1.0,1.0,116.0,276.0,574.0
+179,,,visa,,87.0,Alfred Kelly Jr.,Information Technology,United States,2016.0,0.0,1.0,186.0,291.0,246.0
+180,,,geelyautomobile,,88.0,Sheng Yue Gui,Automobile,Ch,2006.0,1.0,1.0,56.0,686.0,464.0
+181,,,dbsbank,,89.0,Piyush Gupta,Financial Services,Singapore,2009.0,0.0,1.0,152.0,290.0,414.0
+182,,,sonichealthcare,,90.0,Colin Goldschmidt,Health Care,Australia,1993.0,1.0,0.0,100.0,521.0,427.0
+183,,,umicore,,91.0,Marc Grynberg,Materials,Belgium,2008.0,1.0,0.0,215.0,265.0,151.0
+184,,,upm,,92.0,Jussi Pesonen,Materials,Finland,2004.0,1.0,0.0,253.0,107.0,133.0
+185,,,regeneronpharmaceuticals,,93.0,Leonard Schleifer,Health Care,United States,1988.0,1.0,0.0,19.0,682.0,654.0
+186,,,dsv,,94.0,Jens Bjørn Andersen,Transportation,Denmark,2008.0,1.0,0.0,173.0,230.0,389.0
+187,,,sandvik,,95.0,Björn Rosengren,Industrials,Sweden,2015.0,0.0,0.0,270.0,143.0,38.0
+188,,,softbank,,96.0,Masayoshi Son,Communication,Japan,1981.0,1.0,0.0,10.0,703.0,699.0
+189,,,américamóvil,,97.0,Daniel Hajj Aboumrad,Communication,Mexico,2000.0,1.0,0.0,49.0,508.0,732.0
+190,,,appliedmaterials,,98.0,Gary Dickerson,Information Technology,United States,2013.0,1.0,1.0,207.0,347.0,167.0
+191,,,comcast,,99.0,Brian Roberts,Communication,United States,2002.0,1.0,0.0,68.0,604.0,570.0
+192,,,brookfieldassetmanagement,,100.0,Bruce Flatt,Financial Services,Canada,2002.0,1.0,0.0,25.0,855.0,525.0
